@@ -9,3 +9,5 @@
 5. Wait Time
 6. Injuries
 7. Users
+
+![Database Schema](docs/schema.png)
